@@ -121,17 +121,6 @@ Unlike traditional GPA calculators, **GPAlytics is intelligent**. It doesn't jus
 
 ---
 
-## 🧾 License
-
-MIT License © 2025
-
----
-
-## 🙌 Contributing
-
-Pull requests and feedback are welcome! If you have ideas to improve the UI/UX or add new intelligence features, feel free to fork and submit.
-
----
 
 ## ✨ Author
 
