@@ -124,5 +124,5 @@ Unlike traditional GPA calculators, **GPAlytics is intelligent**. It doesn't jus
 
 ## ✨ Author
 
-Built with ❤️ by [Hari]([https://github.com/your-profile](https://github.com/ShreeHarinesh1494))
+Built with ❤️ by [Hari]([https://github.com/ShreeHarinesh1494])
 
